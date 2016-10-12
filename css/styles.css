@@ -1,9 +1,6 @@
-h2.intro {
-  color: darkgreen;
-}
-
-p.intro {
+.intro {
   font-weight: bold;
+  color: darkgreen;
 }
 
 img.intro {
