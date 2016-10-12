@@ -1,0 +1,14 @@
+h2.intro {
+  color: darkgreen;
+}
+
+p.intro {
+  font-weight: bold;
+}
+
+img.intro {
+border-radius: 20px;
+border-style: ridge;
+border-color: lightgrey;
+border-width: thick;
+}
