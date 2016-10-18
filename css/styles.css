@@ -9,3 +9,9 @@ border-style: ridge;
 border-color: lightgrey;
 border-width: thick;
 }
+
+.highlight {
+  background-color: lightyellow;
+  border: 1px solid yellow;
+  color: blue;
+}
